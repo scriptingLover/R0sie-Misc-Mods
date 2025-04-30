@@ -8,3 +8,9 @@ PSA
 ... And many others.
 
 pls give me money
+
+
+--------------------------------------------------
+
+
+Completely open source, but I do request credit in every project made with my code.
